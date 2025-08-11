@@ -1,4 +1,4 @@
-# Tandemloop Screening Test Solutions
+# Tandemloop technologies Screening Test Solutions
 
 **Name:** MUTHUKRISHNAN M  
 **Language:** Java
